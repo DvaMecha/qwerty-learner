@@ -4119,11 +4119,11 @@ export const dictionaryResources: DictionaryResource[] = [
   ...chinaExam,
   ...internationalExam,
   ...childrenEnglish,
-  ...programming,
-  ...japaneseExam,
-  ...germanExam,
-  ...kazakhHapinDicts,
-  ...indonesianDicts,
+  // ...programming,
+  // ...japaneseExam,
+  // ...germanExam,
+  // ...kazakhHapinDicts,
+  // ...indonesianDicts,
 
   // {
   //   id: 'zhtest',
