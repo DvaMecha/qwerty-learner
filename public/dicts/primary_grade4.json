@@ -1,0 +1,28 @@
+[
+    {
+        "name": "library",
+        "trans": [
+            "n. 图书馆"
+        ],
+        "usphone": "ˈlaɪbreri",
+        "ukphone": "ˈlaɪbrəri"
+    },
+    {
+        "name": "weather",
+        "trans": [
+            "n. 天气",
+            "v. 经受住"
+        ],
+        "usphone": "ˈweðər",
+        "ukphone": "ˈweðə"
+    },
+    {
+        "name": "write",
+        "trans": [
+            "v. 写",
+            "n. 书写"
+        ],
+        "usphone": "raɪt",
+        "ukphone": "raɪt"
+    }
+]

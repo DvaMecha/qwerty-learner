@@ -1,0 +1,772 @@
+[
+    {
+        "name": "apple",
+        "trans": [
+            "n. 苹果"
+        ],
+        "usphone": "ˈæpəl",
+        "ukphone": "ˈæpl"
+    },
+    {
+        "name": "book",
+        "trans": [
+            "n. 书",
+            "v. 预订"
+        ],
+        "usphone": "bʊk",
+        "ukphone": "bʊk"
+    },
+    {
+        "name": "cat",
+        "trans": [
+            "n. 猫"
+        ],
+        "usphone": "kæt",
+        "ukphone": "kæt"
+    },
+    {
+        "name": "dog",
+        "trans": [
+            "n. 狗"
+        ],
+        "usphone": "dɔːɡ",
+        "ukphone": "dɒɡ"
+    },
+    {
+        "name": "red",
+        "trans": [
+            "adj. 红色的",
+            "n. 红色"
+        ],
+        "usphone": "red",
+        "ukphone": "red"
+    },
+    {
+        "name": "one",
+        "trans": [
+            "num. 一"
+        ],
+        "usphone": "wʌn",
+        "ukphone": "wʌn"
+    },
+    {
+        "name": "two",
+        "trans": [
+            "num. 二"
+        ],
+        "usphone": "tuː",
+        "ukphone": "tuː"
+    },
+    {
+        "name": "three",
+        "trans": [
+            "num. 三"
+        ],
+        "usphone": "θriː",
+        "ukphone": "θriː"
+    },
+    {
+        "name": "four",
+        "trans": [
+            "num. 四"
+        ],
+        "usphone": "fɔːr",
+        "ukphone": "fɔː"
+    },
+    {
+        "name": "five",
+        "trans": [
+            "num. 五"
+        ],
+        "usphone": "faɪv",
+        "ukphone": "faɪv"
+    },
+    {
+        "name": "six",
+        "trans": [
+            "num. 六"
+        ],
+        "usphone": "sɪks",
+        "ukphone": "sɪks"
+    },
+    {
+        "name": "seven",
+        "trans": [
+            "num. 七"
+        ],
+        "usphone": "ˈsevən",
+        "ukphone": "ˈsevən"
+    },
+    {
+        "name": "eight",
+        "trans": [
+            "num. 八"
+        ],
+        "usphone": "eɪt",
+        "ukphone": "eɪt"
+    },
+    {
+        "name": "nine",
+        "trans": [
+            "num. 九"
+        ],
+        "usphone": "naɪn",
+        "ukphone": "naɪn"
+    },
+    {
+        "name": "ten",
+        "trans": [
+            "num. 十"
+        ],
+        "usphone": "ten",
+        "ukphone": "ten"
+    },
+    {
+        "name": "eleven",
+        "trans": [
+            "num. 十一"
+        ],
+        "usphone": "ɪˈlevən",
+        "ukphone": "ɪˈlevən"
+    },
+    {
+        "name": "twelve",
+        "trans": [
+            "num. 十二"
+        ],
+        "usphone": "twelv",
+        "ukphone": "twelv"
+    },
+    {
+        "name": "run",
+        "trans": [
+            "v. 跑",
+            "n. 跑步"
+        ],
+        "usphone": "rʌn",
+        "ukphone": "rʌn"
+    },
+    {
+        "name": "zoo",
+        "trans": [
+            "n. 动物园"
+        ],
+        "usphone": "zuː",
+        "ukphone": "zuː"
+    },
+    {
+        "name": "jump",
+        "trans": [
+            "v. 跳",
+            "n. 跳跃"
+        ],
+        "usphone": "dʒʌmp",
+        "ukphone": "dʒʌmp"
+    },
+    {
+        "name": "family",
+        "trans": [
+            "n. 家庭"
+        ],
+        "usphone": "ˈfæməli",
+        "ukphone": "ˈfæmɪli"
+    },
+    {
+        "name": "yellow",
+        "trans": [
+            "n. 黄色",
+            "adj. 黄色的"
+        ],
+        "usphone": "ˈjeloʊ",
+        "ukphone": "ˈjeləʊ"
+    },
+    {
+        "name": "blue",
+        "trans": [
+            "n. 蓝色",
+            "adj. 蓝色的"
+        ],
+        "usphone": "bluː",
+        "ukphone": "bluː"
+    },
+    {
+        "name": "green",
+        "trans": [
+            "n. 绿色",
+            "adj. 绿色的"
+        ],
+        "usphone": "ɡriːn",
+        "ukphone": "ɡriːn"
+    },
+    {
+        "name": "black",
+        "trans": [
+            "n. 黑色",
+            "adj. 黑色的"
+        ],
+        "usphone": "blæk",
+        "ukphone": "blæk"
+    },
+    {
+        "name": "white",
+        "trans": [
+            "n. 白色",
+            "adj. 白色的"
+        ],
+        "usphone": "waɪt",
+        "ukphone": "waɪt"
+    },
+    {
+        "name": "father",
+        "trans": [
+            "n. 父亲"
+        ],
+        "usphone": "ˈfɑːðər",
+        "ukphone": "ˈfɑːðə"
+    },
+    {
+        "name": "mother",
+        "trans": [
+            "n. 母亲"
+        ],
+        "usphone": "ˈmʌðər",
+        "ukphone": "ˈmʌðə"
+    },
+    {
+        "name": "grandpa",
+        "trans": [
+            "n. 爷爷/外公"
+        ],
+        "usphone": "ˈɡrænpɑː",
+        "ukphone": "ˈɡrænpɑː"
+    },
+    {
+        "name": "grandma",
+        "trans": [
+            "n. 奶奶/外婆"
+        ],
+        "usphone": "ˈɡrænmɑː",
+        "ukphone": "ˈɡrænmɑː"
+    },
+    {
+        "name": "brother",
+        "trans": [
+            "n. 兄弟"
+        ],
+        "usphone": "ˈbrʌðər",
+        "ukphone": "ˈbrʌðə"
+    },
+    {
+        "name": "sister",
+        "trans": [
+            "n. 姐妹"
+        ],
+        "usphone": "ˈsɪstər",
+        "ukphone": "ˈsɪstə"
+    },
+    {
+        "name": "baby",
+        "trans": [
+            "n. 婴儿"
+        ],
+        "usphone": "ˈbeɪbi",
+        "ukphone": "ˈbeɪbi"
+    },
+    {
+        "name": "pig",
+        "trans": [
+            "n. 猪"
+        ],
+        "usphone": "pɪɡ",
+        "ukphone": "pɪɡ"
+    },
+    {
+        "name": "cow",
+        "trans": [
+            "n. 奶牛"
+        ],
+        "usphone": "kaʊ",
+        "ukphone": "kaʊ"
+    },
+    {
+        "name": "duck",
+        "trans": [
+            "n. 鸭子"
+        ],
+        "usphone": "dʌk",
+        "ukphone": "dʌk"
+    },
+    {
+        "name": "chicken",
+        "trans": [
+            "n. 鸡",
+            "n. 鸡肉"
+        ],
+        "usphone": "ˈtʃɪkɪn",
+        "ukphone": "ˈtʃɪkɪn"
+    },
+    {
+        "name": "horse",
+        "trans": [
+            "n. 马"
+        ],
+        "usphone": "hɔːrs",
+        "ukphone": "hɔːs"
+    },
+    {
+        "name": "sheep",
+        "trans": [
+            "n. 绵羊"
+        ],
+        "usphone": "ʃiːp",
+        "ukphone": "ʃiːp"
+    },
+    {
+        "name": "rabbit",
+        "trans": [
+            "n. 兔子"
+        ],
+        "usphone": "ˈræbɪt",
+        "ukphone": "ˈræbɪt"
+    },
+    {
+        "name": "bird",
+        "trans": [
+            "n. 鸟"
+        ],
+        "usphone": "bɜːrd",
+        "ukphone": "bɜːd"
+    },
+    {
+        "name": "fish",
+        "trans": [
+            "n. 鱼"
+        ],
+        "usphone": "fɪʃ",
+        "ukphone": "fɪʃ"
+    },
+    {
+        "name": "elephant",
+        "trans": [
+            "n. 大象"
+        ],
+        "usphone": "ˈelɪfənt",
+        "ukphone": "ˈelɪfənt"
+    },
+    {
+        "name": "lion",
+        "trans": [
+            "n. 狮子"
+        ],
+        "usphone": "ˈlaɪən",
+        "ukphone": "ˈlaɪən"
+    },
+    {
+        "name": "pen",
+        "trans": [
+            "n. 钢笔"
+        ],
+        "usphone": "pen",
+        "ukphone": "pen"
+    },
+    {
+        "name": "pencil",
+        "trans": [
+            "n. 铅笔"
+        ],
+        "usphone": "ˈpensəl",
+        "ukphone": "ˈpensl"
+    },
+    {
+        "name": "eraser",
+        "trans": [
+            "n. 橡皮"
+        ],
+        "usphone": "ɪˈreɪsər",
+        "ukphone": "ɪˈreɪzə"
+    },
+    {
+        "name": "ruler",
+        "trans": [
+            "n. 尺子"
+        ],
+        "usphone": "ˈruːlər",
+        "ukphone": "ˈruːlə"
+    },
+    {
+        "name": "bag",
+        "trans": [
+            "n. 书包"
+        ],
+        "usphone": "bæɡ",
+        "ukphone": "bæɡ"
+    },
+    {
+        "name": "desk",
+        "trans": [
+            "n. 课桌"
+        ],
+        "usphone": "desk",
+        "ukphone": "desk"
+    },
+    {
+        "name": "chair",
+        "trans": [
+            "n. 椅子"
+        ],
+        "usphone": "tʃer",
+        "ukphone": "tʃeə"
+    },
+    {
+        "name": "blackboard",
+        "trans": [
+            "n. 黑板"
+        ],
+        "usphone": "ˈblækbɔːrd",
+        "ukphone": "ˈblækbɔːd"
+    },
+    {
+        "name": "notebook",
+        "trans": [
+            "n. 笔记本"
+        ],
+        "usphone": "ˈnoʊtbʊk",
+        "ukphone": "ˈnəʊtbʊk"
+    },
+    {
+        "name": "eat",
+        "trans": [
+            "v. 吃"
+        ],
+        "usphone": "iːt",
+        "ukphone": "iːt"
+    },
+    {
+        "name": "drink",
+        "trans": [
+            "v. 喝",
+            "n. 饮料"
+        ],
+        "usphone": "drɪŋk",
+        "ukphone": "drɪŋk"
+    },
+    {
+        "name": "read",
+        "trans": [
+            "v. 读",
+            "n. 阅读"
+        ],
+        "usphone": "riːd",
+        "ukphone": "riːd"
+    },
+    {
+        "name": "write",
+        "trans": [
+            "v. 写",
+            "v. 写"
+        ],
+        "usphone": "raɪt",
+        "ukphone": "raɪt"
+    },
+    {
+        "name": "draw",
+        "trans": [
+            "v. 画画"
+        ],
+        "usphone": "drɔː",
+        "ukphone": "drɔː"
+    },
+    {
+        "name": "sing",
+        "trans": [
+            "v. 唱歌"
+        ],
+        "usphone": "sɪŋ",
+        "ukphone": "sɪŋ"
+    },
+    {
+        "name": "dance",
+        "trans": [
+            "v. 跳舞",
+            "n. 舞蹈"
+        ],
+        "usphone": "dæns",
+        "ukphone": "dɑːns"
+    },
+    {
+        "name": "play",
+        "trans": [
+            "v. 玩耍",
+            "n. 游戏"
+        ],
+        "usphone": "pleɪ",
+        "ukphone": "pleɪ"
+    },
+    {
+        "name": "study",
+        "trans": [
+            "v. 学习",
+            "n. 书房"
+        ],
+        "usphone": "ˈstʌdi",
+        "ukphone": "ˈstʌdi"
+    },
+    {
+        "name": "walk",
+        "trans": [
+            "v. 走路"
+        ],
+        "usphone": "wɔːk",
+        "ukphone": "wɔːk"
+    },
+    {
+        "name": "stop",
+        "trans": [
+            "v. 停止"
+        ],
+        "usphone": "stɑːp",
+        "ukphone": "stɒp"
+    },
+    {
+        "name": "big",
+        "trans": [
+            "adj. 大的",
+            "n. 大号"
+        ],
+        "usphone": "bɪɡ",
+        "ukphone": "bɪɡ"
+    },
+    {
+        "name": "small",
+        "trans": [
+            "adj. 小的"
+        ],
+        "usphone": "smɔːl",
+        "ukphone": "smɔːl"
+    },
+    {
+        "name": "happy",
+        "trans": [
+            "adj. 开心的"
+        ],
+        "usphone": "ˈhæpi",
+        "ukphone": "ˈhæpi"
+    },
+    {
+        "name": "sad",
+        "trans": [
+            "adj. 难过的"
+        ],
+        "usphone": "sæd",
+        "ukphone": "sæd"
+    },
+    {
+        "name": "hot",
+        "trans": [
+            "adj. 热的"
+        ],
+        "usphone": "hɑːt",
+        "ukphone": "hɒt"
+    },
+    {
+        "name": "cold",
+        "trans": [
+            "adj. 冷的"
+        ],
+        "usphone": "koʊld",
+        "ukphone": "kəʊld"
+    },
+    {
+        "name": "rice",
+        "trans": [
+            "n. 米饭"
+        ],
+        "usphone": "raɪs",
+        "ukphone": "raɪs"
+    },
+    {
+        "name": "bread",
+        "trans": [
+            "n. 面包"
+        ],
+        "usphone": "bred",
+        "ukphone": "bred"
+    },
+    {
+        "name": "milk",
+        "trans": [
+            "n. 牛奶"
+        ],
+        "usphone": "mɪlk",
+        "ukphone": "mɪlk"
+    },
+    {
+        "name": "egg",
+        "trans": [
+            "n. 鸡蛋"
+        ],
+        "usphone": "eɡ",
+        "ukphone": "eɡ"
+    },
+    {
+        "name": "head",
+        "trans": [
+            "n. 头"
+        ],
+        "usphone": "hed",
+        "ukphone": "hed"
+    },
+    {
+        "name": "hand",
+        "trans": [
+            "n. 手"
+        ],
+        "usphone": "hænd",
+        "ukphone": "hænd"
+    },
+    {
+        "name": "foot",
+        "trans": [
+            "n. 脚"
+        ],
+        "usphone": "fʊt",
+        "ukphone": "fʊt"
+    },
+    {
+        "name": "eye",
+        "trans": [
+            "n. 眼睛"
+        ],
+        "usphone": "aɪ",
+        "ukphone": "aɪ"
+    },
+    {
+        "name": "nose",
+        "trans": [
+            "n. 鼻子"
+        ],
+        "usphone": "noʊz",
+        "ukphone": "nəʊz"
+    },
+    {
+        "name": "mouth",
+        "trans": [
+            "n. 嘴巴"
+        ],
+        "usphone": "maʊθ",
+        "ukphone": "maʊθ"
+    },
+    {
+        "name": "spring",
+        "trans": [
+            "n. 春天"
+        ],
+        "usphone": "sprɪŋ",
+        "ukphone": "sprɪŋ"
+    },
+    {
+        "name": "summer",
+        "trans": [
+            "n. 夏天"
+        ],
+        "usphone": "ˈsʌmər",
+        "ukphone": "ˈsʌmə"
+    },
+    {
+        "name": "autumn",
+        "trans": [
+            "n. 秋天"
+        ],
+        "usphone": "ˈɔːtəm",
+        "ukphone": "ˈɔːtəm"
+    },
+    {
+        "name": "winter",
+        "trans": [
+            "n. 冬天"
+        ],
+        "usphone": "ˈwɪntər",
+        "ukphone": "ˈwɪntə"
+    },
+    {
+        "name": "sunny",
+        "trans": [
+            "adj. 晴朗的"
+        ],
+        "usphone": "ˈsʌni",
+        "ukphone": "ˈsʌni"
+    },
+    {
+        "name": "rain",
+        "trans": [
+            "n. 雨",
+            "v. 下雨"
+        ],
+        "usphone": "reɪn",
+        "ukphone": "reɪn"
+    },
+    {
+        "name": "cloud",
+        "trans": [
+            "n. 云"
+        ],
+        "usphone": "klaʊd",
+        "ukphone": "klaʊd"
+    },
+    {
+        "name": "shirt",
+        "trans": [
+            "n. 衬衫"
+        ],
+        "usphone": "ʃɜːrt",
+        "ukphone": "ʃɜːt"
+    },
+    {
+        "name": "dress",
+        "trans": [
+            "n. 连衣裙"
+        ],
+        "usphone": "dres",
+        "ukphone": "dres"
+    },
+    {
+        "name": "shoes",
+        "trans": [
+            "n. 鞋子"
+        ],
+        "usphone": "ʃuːz",
+        "ukphone": "ʃuːz"
+    },
+    {
+        "name": "hat",
+        "trans": [
+            "n. 帽子"
+        ],
+        "usphone": "hæt",
+        "ukphone": "hæt"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "prep. 在...里"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn"
+    },
+    {
+        "name": "on",
+        "trans": [
+            "prep. 在...上"
+        ],
+        "usphone": "ɑːn",
+        "ukphone": "ɒn"
+    },
+    {
+        "name": "under",
+        "trans": [
+            "prep. 在...下"
+        ],
+        "usphone": "ˈʌndər",
+        "ukphone": "ˈʌndə"
+    }
+]

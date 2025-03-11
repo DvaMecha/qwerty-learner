@@ -1,0 +1,27 @@
+[
+    {
+        "name": "experiment",
+        "trans": [
+            "n. 实验",
+            "v. 进行实验"
+        ],
+        "usphone": "ɪkˈsperɪmənt",
+        "ukphone": "ɪkˈsperɪmənt"
+    },
+    {
+        "name": "analyze",
+        "trans": [
+            "v. 分析"
+        ],
+        "usphone": "ˈænəlaɪz",
+        "ukphone": "ˈænəlaɪz"
+    },
+    {
+        "name": "biography",
+        "trans": [
+            "n. 传记"
+        ],
+        "usphone": "baɪˈɑːɡrəfi",
+        "ukphone": "baɪˈɒɡrəfi"
+    }
+]

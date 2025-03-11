@@ -1,0 +1,26 @@
+[
+    {
+        "name": "environment",
+        "trans": [
+            "n. 环境"
+        ],
+        "usphone": "ɪnˈvaɪrənmənt",
+        "ukphone": "ɪnˈvaɪrənmənt"
+    },
+    {
+        "name": "hypothesis",
+        "trans": [
+            "n. 假设"
+        ],
+        "usphone": "haɪˈpɑːθəsɪs",
+        "ukphone": "haɪˈpɒθəsɪs"
+    },
+    {
+        "name": "international",
+        "trans": [
+            "adj. 国际的"
+        ],
+        "usphone": "ˌɪntərˈnæʃnəl",
+        "ukphone": "ˌɪntəˈnæʃnəl"
+    }
+]
