@@ -19,10 +19,10 @@ const GalleryPage = lazy(() => import('./pages/Gallery-N'))
 
 if (process.env.NODE_ENV === 'production') {
   // for prod
-  mixpanel.init('bdc492847e9340eeebd53cc35f321691')
+  mixpanel.init('2dd574a0350d784b0a77f0ea4c09e55e')
 } else {
   // for dev
-  mixpanel.init('5474177127e4767124c123b2d7846e2a', { debug: true })
+  mixpanel.init('2dd574a0350d784b0a77f0ea4c09e55e', { debug: true })
 }
 
 function Root() {
