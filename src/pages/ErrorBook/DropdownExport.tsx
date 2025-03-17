@@ -58,17 +58,17 @@ const DropdownExport: FC<DropdownProps> = ({ renderRecords, paraphrases }) => {
     <div className="z-10">
       <DropdownMenu.Root>
         <DropdownMenu.Trigger asChild>
-          <button className="my-btn-primary h-8 shadow transition hover:bg-indigo-600">导出</button>
+          <button className="my-btn-primary h-8 shadow transition hover:bg-cyan-600">导出</button>
         </DropdownMenu.Trigger>
-        <DropdownMenu.Content className="mt-1 rounded bg-indigo-500 text-white shadow-lg">
+        <DropdownMenu.Content className="mt-1 rounded bg-cyan-500 text-white shadow-lg">
           <DropdownMenu.Item
-            className="cursor-pointer rounded px-4 py-2 hover:bg-indigo-400 focus:bg-indigo-600 focus:outline-none"
+            className="cursor-pointer rounded px-4 py-2 hover:bg-cyan-400 focus:bg-cyan-600 focus:outline-none"
             onClick={() => handleExport('xlsx')}
           >
             .xlsx
           </DropdownMenu.Item>
           <DropdownMenu.Item
-            className="cursor-pointer rounded px-4 py-2 hover:bg-indigo-600 focus:bg-indigo-600 focus:outline-none"
+            className="cursor-pointer rounded px-4 py-2 hover:bg-cyan-600 focus:bg-cyan-600 focus:outline-none"
             onClick={() => handleExport('csv')}
           >
             .csv

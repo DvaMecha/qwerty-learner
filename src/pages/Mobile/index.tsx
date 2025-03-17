@@ -26,11 +26,6 @@ const detail = [
     description: '显示输入速度和正确率，量化技能提升',
     img: speedImg,
   },
-  {
-    title: '为程序员定制',
-    description: '内置编程相关词库，提高工作效率',
-    img: codeImg,
-  },
 ]
 
 const MobilePage: React.FC = () => {
@@ -102,7 +97,7 @@ const MobilePage: React.FC = () => {
         </div>
       </section>
 
-      <section className="mt-4 px-10">
+      {/* <section className="mt-4 px-10">
         <div
           style={{
             boxShadow: '0px 0px 12px rgba(0,0,0,0.12), 0px 8px 15px -3px rgba(0,0,0,0.1)',
@@ -123,7 +118,7 @@ const MobilePage: React.FC = () => {
             <img src={hotImg} alt="" style={{ width: '100%', flexShrink: 0 }} />
           </div>
         </div>
-      </section>
+      </section> */}
 
       <section className="mt-10 px-5">
         <h1 className="text-center text-3xl font-bold text-primary">助力你快速掌握单词</h1>
@@ -151,13 +146,13 @@ const MobilePage: React.FC = () => {
       <section
         className="mt-10 flex h-[20rem] w-full  flex-col items-center"
         style={{
-          background: 'linear-gradient(-45deg, #6366f1, #6366f1, #6366f1, #b600ff)',
+          background: 'linear-gradient(-45deg, #06B6D4,rgb(64, 203, 227),rgb(27, 118, 139),rgb(31, 206, 136))',
           backgroundSize: '600% 600%',
           animation: 'gradientBG 4s ease-in-out infinite',
         }}
       >
         <h1 className="mt-10 text-3xl font-bold text-white">轻松上手，简单好用</h1>
-        <h2 className="mt-10    px-10 text-white">为键盘工作者设计的单词与肌肉记忆锻炼软件</h2>
+        <h2 className="mt-10    px-10 text-white">为单词学习者设计的单词与肌肉记忆锻炼软件</h2>
         <div className="mt-10 rounded-2xl bg-white px-6 py-3 font-bold text-primary">请使用桌面端浏览器访问本网站，即刻体验！</div>
       </section>
     </div>

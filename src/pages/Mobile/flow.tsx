@@ -15,7 +15,7 @@ const Flow: React.FC = () => {
           <use
             className="wave"
             xlinkHref="#wave"
-            fill="#ced2fc"
+            fill="#3CB371"
             x="50"
             y="0"
             style={{ ...waveStyle, animationDelay: '-2s', animationDuration: '12s' }}
@@ -23,7 +23,7 @@ const Flow: React.FC = () => {
           <use
             className="wave"
             xlinkHref="#wave"
-            fill="#a8b0f6"
+            fill="#228B22"
             x="50"
             y="2"
             style={{ ...waveStyle, animationDelay: '-4s', animationDuration: '9s' }}
@@ -31,7 +31,7 @@ const Flow: React.FC = () => {
           <use
             className="wave"
             xlinkHref="#wave"
-            fill="#818cf8"
+            fill="#6B8E23"
             x="50"
             y="4"
             style={{ ...waveStyle, animationDelay: '-6s', animationDuration: '6s' }}

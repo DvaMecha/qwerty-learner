@@ -20,8 +20,8 @@ export default function DictRequest() {
           openState={showPanel}
           title="申请词典"
           icon={IconBook2}
-          buttonClassName="bg-indigo-500 hover:bg-indigo-400"
-          iconClassName="text-indigo-500 bg-indigo-100 dark:text-indigo-300 dark:bg-indigo-500"
+          buttonClassName="bg-cyan-500 hover:bg-cyan-400"
+          iconClassName="text-cyan-500 bg-cyan-100 dark:text-cyan-300 dark:bg-cyan-500"
           onClose={onClosePanel}
         >
           <p className="text-sm text-gray-600 dark:text-gray-300">
@@ -46,7 +46,7 @@ export default function DictRequest() {
           <br />
         </InfoPanel>
       )}
-      <button className="cursor-pointer pr-6 text-sm text-indigo-500" onClick={onOpenPanel}>
+      <button className="cursor-pointer pr-6 text-sm text-cyan-500" onClick={onOpenPanel}>
         没有找到想要的词典？
       </button>
     </>

@@ -26,7 +26,7 @@ export const DonateCard = () => {
   }, [])
 
   const HighlightedText = ({ children, className }: { children: React.ReactNode; className?: string }) => {
-    return <span className={`font-bold  ${className ? className : 'text-indigo-500'}`}>{children}</span>
+    return <span className={`font-bold  ${className ? className : 'text-cyan-500'}`}>{children}</span>
   }
 
   const onClickHasDonated = () => {
